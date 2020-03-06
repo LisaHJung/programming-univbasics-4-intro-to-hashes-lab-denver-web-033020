@@ -8,7 +8,7 @@ end
 
 def pioneer
   pioneer= {:name=>"Grace Hopper"}
-  return pioneer
+  pioneer
 end
 
 def id_generator
