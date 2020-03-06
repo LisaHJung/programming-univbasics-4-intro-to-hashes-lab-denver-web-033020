@@ -8,7 +8,6 @@ end
 
 def pioneer
   pioneer= {:name=>"Grace Hopper"}
-  pioneer
 end
 
 def id_generator
@@ -18,7 +17,6 @@ end
 def my_hash_creator(key, value)
   hash_creator = { }
   hash_creator[key] = value
-  return hash_creator
 end
 
 def read_from_hash(hash, key)
